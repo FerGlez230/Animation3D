@@ -1,5 +1,5 @@
 # Animation3D
-This project shows a 3D animation using functions like transformations, rotations, translations, etc. without using Java 3D Class, i.e. with programmed functions by my own.
+This project shows a 3D animation that uses functions like transformations, rotations, translations, etc. The project was made without using Java 3D Class, i.e. with programmed functions by my own.
 
 ## Technologies
 Project is created with:
