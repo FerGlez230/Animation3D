@@ -3,8 +3,8 @@ This project shows a 3D animation that uses functions like transformations, rota
 
 ## Technologies
 Project was created with:
-* [Java JDK 17] (https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-* I use [NetBeans IDE 12.4] (https://netbeans.apache.org/download/nb14/nb14.html)
+* [Java JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* I use [NetBeans IDE 12.4](https://netbeans.apache.org/download/nb14/nb14.html)
 
 ## How to run this project?
 * Download repository and run Animacion3D.java file
