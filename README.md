@@ -2,9 +2,9 @@
 This project shows a 3D animation that uses functions like transformations, rotations, translations, etc. The project was made without using Java 3D Class, i.e. with programmed functions by my own.
 
 ## Technologies
-Project is created with:
-* Java JDK 17 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-* I use NetBeans IDE 12.4 https://netbeans.apache.org/download/nb14/nb14.html
+Project was created with:
+* [Java JDK 17] (https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* I use [NetBeans IDE 12.4] (https://netbeans.apache.org/download/nb14/nb14.html)
 
 ## How to run this project?
 * Download repository and run Animacion3D.java file
